@@ -39,17 +39,20 @@
 *July 2023 – Sept 2023 | Menofia, Egypt*
 
 - Developed dynamic web applications using **HTML, CSS, JavaScript, Bootstrap, React, and Redux**.
-- Built responsive, mobile-first interfaces with **Bootstrap**.
-- Managed global state using **React Redux** and implemented client-side routing with **React Router**.
+- Built responsive, mobile-first interfaces with **Bootstrap**, ensuring seamless user experience across devices.
+- Gained in-depth knowledge of **React’s component-based architecture**, state management, and lifecycle methods.
+- Implemented **client-side routing with React Router** and managed global state with **React Redux**.
+- Collaborated on **prototyping** and delivering user-friendly web designs efficiently.
 
 ---
 
 #### Frontend Web Development Internship | ARIB Company
 *Jul 2024 – Sep 2024 | Cairo, Egypt*
 
-- Developed a fully responsive **e-commerce website** prototype using **React.js, Redux, and Bootstrap**.
-- Engineered a dynamic product catalog with filtering and sorting features.
-- Integrated a shopping cart and checkout system with React’s state management.
+- Developed a fully responsive **e-commerce website prototype** using **React.js, Redux, and Bootstrap**.
+- Engineered a **dynamic product catalog** with advanced filtering and sorting features.
+- Integrated a **shopping cart and checkout system**, applying **React’s state management** for seamless user interactions.
+- Optimized the **mobile user interface**, ensuring a smooth and intuitive experience across devices.
 
 ---
 
@@ -58,28 +61,37 @@
 ---
 
 #### [LinkedIn Clone](https://github.com/Gemy2050/Linkedin-Clone) | React.js, Redux, Bootstrap, Firebase
-- **User Authentication**: Integrated Firebase Google authentication for secure user sign-in.
-- **Post Management**: Users can create, update, and delete posts.
-- **Saved Items**: Users can save posts to a personal collection for later reference.
+- **User Authentication**: Integrated **Firebase Google authentication** for secure user sign-in.
+- **Post Management**: Built features allowing users to **create, update, and delete posts**.
+- **Saved Items**: Developed functionality for users to **save posts** to a personal collection for future reference.
+- **Like and Comment System**: Enabled users to interact with posts by liking and commenting, enhancing engagement.
+- **User Profiles**: Designed and implemented **profile pages** displaying users' personal information.
 
 ---
 
-#### [Student Assistant](https://github.com/Gemy2050/Chatbot_Project) | React.js, Context API, Firebase
-- **Chatbot**: Integrated a chatbot for assisting students.
-- **Course Management**: Allows students to browse courses and monitor progress.
+#### [Student Assistant](https://github.com/Gemy2050/Chatbot_Project) | React.js, Context API, Bootstrap, Firebase
+- **Chatbot Integration**: Developed a **conversational chatbot** to assist students in interacting with the system.
+- **Community Engagement**: Facilitated peer-to-peer interaction through a **dedicated discussion chat** for sharing experiences and collaborating on coursework.
+- **Course Management**: Implemented features allowing students to **browse courses, access materials, and monitor their academic progress**.
+- **Course Uploads**: Allowed administrative users to **upload and manage course information**.
+- **Feedback Handling**: Built a **feedback system** allowing students to submit suggestions, with administrative review for continuous improvement.
 
 ---
 
 #### [Quiz App](https://github.com/Gemy2050/Prog_Quiz_App) | JavaScript
-- **Dynamic Question Loading**: Fetched questions from local JSON files.
-- **Timer and Scoring**: Implemented a countdown timer with automatic submission and scoring system.
+- **Dynamic Question Loading**: Fetched questions from **local JSON files** for scalability and easy management.
+- **User Interaction**: Allowed users to select answers for each question and proceed through the quiz.
+- **Countdown Timer**: Implemented a timer that automatically submitted answers and showed results when time expired.
+- **Score Calculation**: Calculated the final score and highlighted correct answers for any incorrect responses.
 
 ---
 
 #### [Social App](https://github.com/Gemy2050/social_app) | JavaScript, Bootstrap
-- **User Authentication**: Secure sign-up and login functionality.
-- **Post Management**: Users can create, update, and delete posts.
-- **Interactive Comments**: Real-time commenting system.
+- **User Authentication**: Implemented **secure sign-up and login** functionality.
+- **Data Persistence**: Utilized **local and session storage** for user data management.
+- **Post Management**: Enabled users to **create, update, and delete their posts**.
+- **Interactive Comments**: Facilitated **real-time commenting** on posts, enhancing user interaction.
+- **User Profiles**: Designed comprehensive profiles for users to view personal information and past activity.
 
 ---
 
@@ -87,7 +99,7 @@
 
 - **Languages**: HTML, CSS, JavaScript, TypeScript
 - **Frameworks**: React.js, Redux, Bootstrap, Tailwind CSS
-- **Tools & Technologies**: Firebase, Git, REST API, Responsive Design
+- **Technologies**: Firebase, Git, REST API, Responsive Design
 
 ---
 
