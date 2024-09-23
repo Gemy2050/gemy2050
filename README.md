@@ -23,15 +23,13 @@
 
 ---
 
-#### 🏫 **Bachelor's Degree in Information Systems**
+#### 🏫 **Bachelor's Degree in Computer Science**
 
-- ![University Badge](https://img.shields.io/badge/Beni_Suef_University-0055A4?style=flat&logo=university&logoColor=white)
-- ![GPA Badge](https://img.shields.io/badge/GPA-3.1/4.0-brightgreen)
-- ![Duration Badge](https://img.shields.io/badge/Duration-October%202021%20–%20July%202025-yellow)
+- ![University Badge](https://img.shields.io/badge/Benha_University-0055A4?style=flat&logo=university&logoColor=white)
+- ![GPA Badge](https://img.shields.io/badge/GPA-3.18/4.0-brightgreen)
+- ![Duration Badge](https://img.shields.io/badge/Duration-October%202020%20–%20July%202024-yellow)
 
 ---
-
-<br>
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
