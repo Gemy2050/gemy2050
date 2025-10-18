@@ -129,7 +129,7 @@
 ### 🛠️ Technical Skills
 
 - **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks**: React.js, Redux, Bootstrap, Tailwind CSS
+- **Frameworks**: Vue.js, React.js, Redux, Bootstrap, Tailwind CSS
 - **Technologies**: Firebase, Git, REST API, Responsive Design
 
 <p align="left">
