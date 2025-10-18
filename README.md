@@ -1,6 +1,6 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Mohamed Gamal</h1>
-<h3 align="center">Frontend Developer (React.js)</h3>
+<h3 align="center">Frontend Developer (Vue.js | React.js)</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me:
 - 🎓 **Bachelor's Degree**: Computer Science and Artificial Intelligence, Benha University (GPA: 3.18)
-- 💬 **Ask me about**: React.js, Redux, JavaScript, and Responsive Web Design  
+- 💬 **Ask me about**: Vue.js, React.js, Redux, JavaScript, Tailwind Css and Responsive Web Design  
 - 📫 **Reach me at**: [mogemy.contact@gmail.com](mailto:mogemy.contact@gmail.com) | **+20 01021595806**  
 - 🔗 **LinkedIn**: [Mohamed Gamal](https://www.linkedin.com/in/mohamed-gamal-18a006225/)
 - ⚡ **Fun fact**: I love building scalable web applications and staying up-to-date with the latest frontend technologies!  
