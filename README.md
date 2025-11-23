@@ -13,8 +13,8 @@
 ### 👨‍💻 About Me:
 - 🎓 **Bachelor's Degree**: Computer Science and Artificial Intelligence, Benha University (GPA: 3.18)
 - 💬 **Ask me about**: Vue.js, React.js, Redux, JavaScript, Tailwind Css and Responsive Web Design  
-- 📫 **Reach me at**: [mogemy.contact@gmail.com](mailto:mogemy.contact@gmail.com) | **+20 01021595806**  
-- 🔗 **LinkedIn**: [Mohamed Gamal](https://www.linkedin.com/in/mohamed-gamal-18a006225/)
+- 📫 **Reach me at**: [mohammedgamal.tech@gmail.com](mailto:mohammedgamal.tech@gmail.com) | **+20 01021595806**  
+- 🔗 **LinkedIn**: [Mohamed Gamal](https://www.linkedin.com/in/mohamed-gamal-omar/)
 - ⚡ **Fun fact**: I love building scalable web applications and staying up-to-date with the latest frontend technologies!  
 
 ---
@@ -32,7 +32,7 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/mohamed-gamal-18a006225" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-gamal-omar/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mohamed Gamal" height="40" width="40" />
   </a>
   <a href="https://github.com/gemy2050" target="_blank">
